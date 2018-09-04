@@ -14,7 +14,7 @@ Practice: Add a new project to GitHub repo. i.e., add you local project to githu
 
     Syntax: git clone <gitURL> <destinationPath>
 
-    Ex: git clone https://github.com/venkatasykam/FirstJavaProject.git <destinationPath>
+    Ex: git clone <<URL path>> <destinationPath>
 
   3. Configure username & emailid.
   
